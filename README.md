@@ -4,9 +4,19 @@
 Enhance user experience and engagement on your website with the EngageEase Footer Footer. This meticulously designed footer provides seamless navigation, social connectivity, essential information, and a touch of elegance.
 
 
-## Screenshots
+## Preview
 
-![App Screenshot](https://i.imgur.com/LaWZM3n.png)
+Mobile:
+
+![App Screenshot]([https://i.imgur.com/LaWZM3n.png](https://i.imgur.com/XcXVydg.jpg))
+
+Tablet:
+
+![App Screenshot]([[https://i.imgur.com/LaWZM3n.png](https://i.imgur.com/XcXVydg.jpg](https://i.imgur.com/peqi3my.jpg)))
+
+Laptop:
+
+![App Screenshot]([[https://i.imgur.com/LaWZM3n.png](https://i.imgur.com/XcXVydg.jpg](https://i.imgur.com/u0NnS6A.jpg)))
 
 
 ## Features

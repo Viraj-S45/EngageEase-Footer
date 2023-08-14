@@ -6,6 +6,8 @@ Enhance user experience and engagement on your website with the EngageEase Foote
 
 ## Preview
 
+Link: https://engageease-footer.netlify.app/
+
 Mobile:
 
 ![App Screenshot](https://i.imgur.com/XcXVydg.jpg)
